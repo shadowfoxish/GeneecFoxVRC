@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Body
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 0}
+  controls:
+  - name: Body Size
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 6cea94ffaa2c2bf40a499687f12ea107, type: 2}
+    subParameters: []
+    labels: []
+  - name: Breast
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2f45307e65eaccd4bb3fc0dedc22b9af, type: 2}
+    subParameters: []
+    labels: []
+  - name: Tail Size
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 55af8cda80981c546ade4d2f902872d7, type: 2}
+    subParameters: []
+    labels: []
+  - name: Neck Fluff
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: a5cbcf789e60fd246900139f1344f64a, type: 2}
+    subParameters: []
+    labels: []
+  - name: Species
+    icon: {fileID: 0}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: bdca802bf1af76b4fbde4b9a7ab4e044, type: 2}
+    subParameters: []
+    labels: []

@@ -1,0 +1,211 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1506855854, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: Feminine Parameters
+  m_EditorClassIdentifier: 
+  parameters:
+  - name: GestureLeft
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+  - name: GestureRight
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+  - name: GestureLeftWeight
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+  - name: GestureRightWeight
+    valueType: 1
+    saved: 0
+    defaultValue: 0
+  - name: Neck
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Bald
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Face Tuft
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Ear Tuft
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Teeth
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Brow +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Brow -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Brow Width -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Lashes +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Face Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Face +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Face -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Hair Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Hair +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Hair -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Jaw Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Jaw +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Jaw -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Eye +
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Eye -
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Wilde Eyes
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Snout Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Breast
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Breast +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Breast -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Pectoral
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Body Mass
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Body Muscle
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Thicc
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Thicc +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Thicc -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Tail Size
+    valueType: 1
+    saved: 1
+    defaultValue: 0
+  - name: Tail +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Tail -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Canines
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Ear +
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Ear -
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Rexxo
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Jexxo
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Hair Thick
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Handles
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Fluff 2
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Fluff 3
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Jexxo
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+  - name: Face Tuft B
+    valueType: 2
+    saved: 1
+    defaultValue: 0
